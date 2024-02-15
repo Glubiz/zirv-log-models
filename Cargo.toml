@@ -1,5 +1,5 @@
 [package]
-name = "zirv_log_models"
+name = "models"
 version = "0.1.0"
 edition = "2021"
 
